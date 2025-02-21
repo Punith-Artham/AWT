@@ -6,6 +6,7 @@ function getData1() {
       }, 1000);
     });
   }
+  
     function getData2() {
     return new Promise((resolve, reject) => {
       setTimeout(() => {

@@ -6,6 +6,7 @@ function getData1(callback) {
     }, 1000); // Simulated delay of 1 second
   }
   
+  
   // Function to simulate fetching the second data
   function getData2(callback) {
     setTimeout(() => {
