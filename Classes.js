@@ -16,8 +16,9 @@ class Demo {
   
   const d1 = new Demo('Alice');
   
+  
   d1.greet();        
   d1.greetArrow();   
   console.log(d1.add(5, 3)); 
-   d1.sayHi();      
+  d1.sayHi();      
   

@@ -29,4 +29,5 @@ function varExample() {
     console.log("Modified object:", obj.name);
   }
   
+  
   constExample();

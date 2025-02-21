@@ -12,6 +12,7 @@ const multiply = (a, b) => a * b;
 
 
 
+
 greet();              
 greetName('Alice');   
 console.log(add(2, 3)); 

@@ -5,6 +5,7 @@ console.log(a, b, c);
 const [first, , third] = numbers; 
 console.log(first, third); 
 
+
 const [x, y, ...others] = numbers; 
 console.log(x, y); 
 console.log(others); 
