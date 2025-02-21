@@ -8,6 +8,5 @@ console.log(first, third);
 const [x, y, ...others] = numbers; 
 console.log(x, y); 
 console.log(others); 
-
 const [p, q = 5] = [10]; 
-console.log(p, q); 
+console.log(p, q);
